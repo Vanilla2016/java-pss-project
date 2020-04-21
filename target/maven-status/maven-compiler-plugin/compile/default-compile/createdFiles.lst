@@ -1,0 +1,3 @@
+com/wds/web/config/SpringConfig.class
+com/wds/web/controller/WelcomeController.class
+com/wds/web/WebInitializer.class
